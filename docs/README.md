@@ -1,6 +1,6 @@
 # Enterprise Knowledge Assistant
 
-### Privacy-First Retrieval-Augmented Generation (RAG) for Organizational Knowledge
+### Privacy First Retrieval-Augmented Generation (RAG) for Organizational Knowledge
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![RAG](https://img.shields.io/badge/AI-RAG-purple)
@@ -62,6 +62,8 @@ Processing            │
               │
               ▼
        Grounded Answer
+
+
 
 The system retrieves relevant information at query time and provides the required context to the language model rather than requiring the entire organizational knowledge base to be incorporated into the model.
 
