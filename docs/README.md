@@ -63,5 +63,5 @@ Processing            │
               ▼
        Grounded Answer
 
-
+The system retrieves relevant information at query time and provides the required context to the language model rather than requiring the entire organizational knowledge base to be incorporated into the model.
 
