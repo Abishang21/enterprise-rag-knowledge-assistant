@@ -216,3 +216,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# RAG vector stores and indexes
+*.faiss
+*.index
+vector_store/
+vectorstore/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local data
+data/
+raw_data/
+processed_data/
+
+# Model files
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# Generated outputs
+outputs/
+tmp/
