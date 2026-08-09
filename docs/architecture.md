@@ -209,7 +209,7 @@ Relevant Chunks
 ```
 
 
-# 6. Pathway 2 — Enterprise Portal / API Knowledge
+# 6. Pathway 2 - Enterprise Portal / API Knowledge
 
 Not all organizational knowledge exists as downloadable documents.
 
