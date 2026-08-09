@@ -137,13 +137,20 @@ Where APIs or database access are available, information can be retrieved direct
 
 enterprise-rag-knowledge-assistant/
 
-├── architecture/       # System architecture and diagrams
+├── architecture/  # System architecture and diagrams
+
 ├── docs/               # Technical documentation and feasibility analysis
+
 ├── examples/           # Sanitized or synthetic examples
+
 ├── future-work/        # Future architecture and product extensions
+
 ├── prototype/          # RAG implementation
+
 ├── .env.example
+
 ├── .gitignore
+
 └── README.md
 
 ### Current Status
@@ -183,6 +190,7 @@ Any implementation examples should use public, synthetic or otherwise authorized
 Data & Business Intelligence Analyst
 
 **Areas of interest**
+
 Data Analytics · Business Intelligence · AI/ML · RAG · Knowledge Management · Research Analytics · Enterprise Data Solutions
 
 
