@@ -345,7 +345,7 @@ Logging should itself comply with organizational privacy requirements.
 
 A phased implementation is recommended.
 
-## Phase 1 — Architecture and Local Proof of Concept
+## Phase 1 - Architecture and Local Proof of Concept
 
 Objectives:
 
@@ -359,7 +359,7 @@ Objectives:
 * Evaluate response quality.
 
 
-## Phase 2 — Retrieval Evaluation
+## Phase 2 - Retrieval Evaluation
 
 The system should be evaluated against representative questions.
 
@@ -375,7 +375,7 @@ Evaluation areas include:
 The goal is to determine whether the retrieval layer consistently supplies the information required to answer user questions.
 
 
-## Phase 3 — Application Integration
+## Phase 3 - Application Integration
 
 Once the retrieval pipeline performs satisfactorily:
 
@@ -388,7 +388,7 @@ Once the retrieval pipeline performs satisfactorily:
 
 
 
-## Phase 4 — Enterprise Deployment
+## Phase 4 - Enterprise Deployment
 
 The production implementation would require additional consideration of:
 
